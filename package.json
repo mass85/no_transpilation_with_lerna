@@ -1,0 +1,11 @@
+{
+  "name": "platform",
+  "dependencies": {
+    "serverSideDaemon": "./packages/serverSideDaemon",
+    "shared": "./packages/shared",
+    "webApp": "./packages/webApp"
+  },
+  "devDependencies": {
+    "lerna": "2.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "serverSideDaemon",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "shared": "1.0.0"
+  }
+}
